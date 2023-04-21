@@ -1,0 +1,48 @@
+/**
+ * @name Spectrum
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@100;300;400;500;700&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --backgroundImage: url('https://media.istockphoto.com/id/1042172390/vector/simple-background.jpg?s=612x612&w=0&k=20&c=es088kJACoiB7Xpf9tZCYcMQxp2akCJsrtovOkugsCE=');
+  --backgroundColor: #0d0d0d;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 11px;
+  --backgroundOpacity: 0.65;
+  --homeImage: url('https://i.pinimg.com/originals/85/c2/60/85c2608cf153b4418f8599b4bd4f4d8a.jpg');
+  --homeImageSize: 130%;
+  --themeColor1: #49F3FF;
+  --themeColor2: #16357A;
+  --customFont: Comfortaa;
+  --backgroundCode: rgba(0 0 0 /.5);
+  --backgroundName: rgba(0 0 0 /.5);
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #03F4DF;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #F07A47;
+  --rs-offline-color: #FFFFFF;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
